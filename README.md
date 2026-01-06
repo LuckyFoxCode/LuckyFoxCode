@@ -22,13 +22,23 @@
   <img src="https://streak-stats.demolab.com/?user=LuckyFoxCode&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🎮 My Current Projects
+## 🎮 Projects
 
-- 🧩 [Poke Arena](https://github.com/LuckyFoxCode/Poke-Arena) — gamified Twitch x GitHub battle system
-- ⚙️ Portfolio in progress...
+- ✅ [Vanilla Todo App](https://github.com/LuckyFoxCode/vanilla-todo-app) — finished, practicing DOM, localStorage, and vanilla JS  
+- 🗒️ [Note Board](https://github.com/LuckyFoxCode/note-board) — in progress, Vite + TypeScript, modular structure and TS typing  
+- ⚙️ Portfolio — in progress  
 
-## 🌐 Contacts
+## 🎯 Learning Path & Goals
 
-- 🐦 Telegram: _(soon)_
-- 💼 LinkedIn: _(soon)_
+- Master Vanilla JS + TypeScript  
+- Deep dive into Vite and modular project structure  
+- Learn Vue.js (next step)  
+- Build a full interactive portfolio  
+
+## 🌐 Contacts / Socials
+
+- 🐦 Telegram (personal): _(soon)_  
+- 💬 Telegram Group (sharing progress & thoughts): _(soon)_  
+- 📺 Twitch (live coding & project streams): [twitch.tv/luckyfoxcode](https://www.twitch.tv/luckyfoxcode)  
+- 💼 LinkedIn: _(soon)_  
 - 🌐 Portfolio: _(in progress)_
