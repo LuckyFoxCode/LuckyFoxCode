@@ -25,7 +25,7 @@
 ## 🎮 Projects
 
 - ✅ [Vanilla Todo App](https://github.com/LuckyFoxCode/vanilla-todo-app) — finished, practicing DOM, localStorage, and vanilla JS  
-- 🗒️ [Note Board](https://github.com/LuckyFoxCode/note-board) — in progress, Vite + TypeScript, modular structure and TS typing  
+- 🗒️ [Note Board](https://github.com/LuckyFoxCode/note-board) — finished, Vite + TypeScript, modular structure and TS typing  
 - ⚙️ Portfolio — in progress  
 
 ## 🎯 Learning Path & Goals
@@ -38,7 +38,7 @@
 ## 🌐 Contacts / Socials
 
 - 🐦 Telegram (personal): _(soon)_  
-- 💬 Telegram Group (sharing progress & thoughts): _(soon)_  
+- 💬 Telegram Group (sharing progress & thoughts): [@TheCodingFox](https://t.me/TheCodingFox)  
 - 📺 Twitch (live coding & project streams): [twitch.tv/luckyfoxcode](https://www.twitch.tv/luckyfoxcode)  
 - 💼 LinkedIn: _(soon)_  
 - 🌐 Portfolio: _(in progress)_
