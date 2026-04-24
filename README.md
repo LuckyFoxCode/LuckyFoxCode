@@ -10,10 +10,6 @@
 ## 🧬 Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuckyFoxCode&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuckyFoxCode&show_icons=true&theme=radical&hide=prs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFoxCode&layout=compact&theme=radical" />
 </p>
