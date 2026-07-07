@@ -11,12 +11,7 @@
 ## 🧬 Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckyFoxCode&show_icons=true&theme=radical&hide=prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFoxCode&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LuckyFoxCode&theme=tokyonight&hide_border=true" />
+  Sorry, something went wrong...🤨
 </p>
 
 ## 🎮 Projects
@@ -24,7 +19,8 @@
 - ✅ [Vanilla Todo App](https://github.com/LuckyFoxCode/vanilla-todo-app) — finished, practicing DOM, localStorage, and vanilla JS  
 - 🗒️ [Note Board](https://github.com/LuckyFoxCode/note-board) — finished, Vite + TypeScript, modular structure and TS typing
 - 🦊 [Note Flow](https://github.com/LuckyFoxCode/note-flow) — finished, Vue 3 (Composition API) + TS + Pinia + Tailwind v4, interactive charts, local auth and dashboard analytics
-- ⚙️ Portfolio — in progress  
+- 🌐 [Fox Sphere](https://github.com/LuckyFoxCode/fox-sphere) — In progress: Vue3, TS, Tailwindcss v4.x, ESLint, Prettier, NodeJS, Express v5.x, Prisma, Docker 
+- ⚙️ Portfolio & CV — [ Soon... ]
 
 ## 🎯 Learning Path & Goals
 
